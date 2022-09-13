@@ -1,0 +1,7 @@
+C:\Users\polak.2019\source\repos\Inventory\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\polak.2019\source\repos\Inventory\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\polak.2019\source\repos\Inventory\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\polak.2019\source\repos\Inventory\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\polak.2019\source\repos\Inventory\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\polak.2019\source\repos\Inventory\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\polak.2019\source\repos\Inventory\Inventory\Inventory\obj\Debug\Inventory.pdb
